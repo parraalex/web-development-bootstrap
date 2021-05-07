@@ -28,7 +28,7 @@
   "homepage": "https://github.com/parraalex/web-development-bootstrap#readme",
   "devDependencies": {
     "cssmin": "^0.4.3",
-    "grunt": "^1.2.1",
+    "grunt": "^1.3.0",
     "grunt-browser-sync": "^2.2.0",
     "grunt-cli": "^1.3.2",
     "grunt-contrib-watch": "^1.1.0",
